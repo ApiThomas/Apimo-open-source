@@ -5,9 +5,9 @@ Real estate software for estate agents
 --------------------------------------
 
 ### Apimo Français ###
-[Apimo.fr][apimofr]
+[Logiciel immobilier sur Apimo.fr][apimofr]
 [apimofr]: http://www.apimo.fr/solution/
 
 ### Apimo Italia ###
-[Apimo.it][apimoit]
+[Software immobiliare Apimo.it][apimoit]
 [apimoit]: http://www.apimo.it/solution/
